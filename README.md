@@ -2,6 +2,10 @@
 
 I'm a full stack developer and mainly use Flutter.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=X-SLAYER&label=Views&color=blue&style=plastic" alt="X-SLAYER" /> </p>
+
 [![X-SLAYER's github stats](https://github-readme-stats.vercel.app/api?username=X-SLAYER&show_icons=true)](https://github.com/X-SLAYER/X-SLAYER)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-SLAYER&layout=compact)](https://github.com/X-SLAYER/X-SLAYER)
+<a href="https://github.com/X-SLAYER">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-SLAYER&theme=light&hide_langs_below=1" />
+</a>
