@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Iheb Briki known as X-SLAYER
 
-I'm a full stack developer and mainly use Flutter.
+I'm a full-stack developer and mainly use Flutter.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=X-SLAYER&label=Views&color=blue&style=plastic" alt="X-SLAYER" /> </p>
 
