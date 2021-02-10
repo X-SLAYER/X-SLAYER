@@ -6,10 +6,9 @@ Remember, open source is not commercial software development. The projects I sha
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=X-SLAYER&label=Views&color=blue&style=plastic" alt="X-SLAYER" /> </p>
 
-[![X-SLAYER's github stats](https://github-readme-stats.vercel.app/api?username=X-SLAYER&show_icons=true)](https://github.com/X-SLAYER/X-SLAYER)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=X-SLAYER)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/X-SLAYER">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-SLAYER&theme=light&hide_langs_below=1" />
-</a>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=X-SLAYER&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-SLAYER&layout=compact" />
+</div>
