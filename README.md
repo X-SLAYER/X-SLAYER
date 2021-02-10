@@ -8,6 +8,8 @@ Remember, open source is not commercial software development. The projects I sha
 
 [![X-SLAYER's github stats](https://github-readme-stats.vercel.app/api?username=X-SLAYER&show_icons=true)](https://github.com/X-SLAYER/X-SLAYER)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=X-SLAYER)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github.com/X-SLAYER">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-SLAYER&theme=light&hide_langs_below=1" />
 </a>
