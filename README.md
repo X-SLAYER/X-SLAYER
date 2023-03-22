@@ -13,9 +13,3 @@ Remember, open source is not commercial software development. The projects I sha
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-SLAYER&layout=compact" />
 </div>
 
-## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/x-slayer/)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/13776382/iheb-briki)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/iih3b/)
-<br>
-<br>
